@@ -1,0 +1,15 @@
+# Node deps
+node_modules/
+.pnp/
+.pnp.js
+
+# Backend config (do not commit production credentials)
+backend/config.php
+
+# Build outputs
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
